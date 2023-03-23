@@ -1,4 +1,4 @@
-# love-you
+# 2023-1-OC-Web-Study
 ## 깃허브에서의 명령어
 
 1. git의 명령어 add,commit,push는 각각 어떤 역할을 하는지 정리하고, git pull과 fetch의 차이점을 정리하시오.
