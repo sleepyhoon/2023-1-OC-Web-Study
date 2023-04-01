@@ -37,3 +37,5 @@ fork는 원본 작업의 변화를 알 수 있고, 그 변화를 내 작업에 �
 이 프로세스를 Git에서 풀 요청이라고 한다. 이 단계에서 사용자는 변경 사항을 기본 중앙 저장소에 병합하라는 요청으로 저장소 소유자에게 변경 사항을 보낸다.
 
 [참고한 사이트](https://dejavuhyo.github.io/posts/difference-between-git-clone-and-git-fork/)
+
+위 과제를 진행하면서 스터디 중에 진행되었던 clone과 fork의 차이에 대해서 잘 알 수 있었다. 다만 실습과정에서 git clone을 진행하고 본인 컴퓨터 내에서 진행을 해서 push를 한 후 pull request를 진행했어야 했는데 그냥 fork만 하고 진행을 해버렸다. clone에 대해서 좀 더 공부 해봐야 되겠다는 생각이 들었다.. 공부 할 것이 많다.
