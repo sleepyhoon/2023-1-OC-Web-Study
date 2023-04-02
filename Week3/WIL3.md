@@ -68,4 +68,5 @@ footer : issue tracker ID를 명시하고 싶은 경우에 작성합니다. <br>
 4. 제목은 개조식 구문으로 작성합니다.  <br>
 예시)
 Feat: "추가 get data api 함수"<br>
-기타 본문과 꼬리말을 작성하는 방법도 있는데 이것은 너무 길어지므로 생략하도록 한다.
+기타 본문과 꼬리말을 작성하는 방법도 있는데 이것은 너무 길어지므로 생략하도록 한다. <br>
+[git 커밋 컨벤션 참고 사이트](https://overcome-the-limits.tistory.com/entry/%ED%98%91%EC%97%85-%ED%98%91%EC%97%85%EC%9D%84-%EC%9C%84%ED%95%9C-%EA%B8%B0%EB%B3%B8%EC%A0%81%EC%9D%B8-git-%EC%BB%A4%EB%B0%8B%EC%BB%A8%EB%B2%A4%EC%85%98-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
